@@ -1,0 +1,1 @@
+This repository is a proof that importing `setUpTests` from `react-native-reanimated` instead of `react-native-reanimated/src/reanimated2/jestUtils` doesn't break the testing framework in a clean App environment.
